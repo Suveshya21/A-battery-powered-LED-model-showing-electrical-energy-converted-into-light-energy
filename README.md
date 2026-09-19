@@ -42,8 +42,7 @@ ni# GREETING LAMP
 
 ## RESULT:
 
-!
-[image2](RESULT.jpg)
+![image2](RESULT.jpg)
 
 * The project was successfully completed and tested. The red LED glowed using the coin battery, so the project worked successfully.
 
